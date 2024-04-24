@@ -1,0 +1,6 @@
+{
+    "AIRFLOW_OPENWEATHER_API_URL": "http://api.openweathermap.org/data/2.5/weather?",
+    "AIRFLOW_OPENWEATHER_API_KEY": "<OPENWEATHER_API_KEY>",
+    "CITIES": ["paris", "london", "washington","ouagadougou","accra"],
+    "WAITER_HAS_RUN":"0"
+}

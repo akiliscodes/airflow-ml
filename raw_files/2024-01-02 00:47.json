@@ -1,0 +1,227 @@
+{
+   "paris": {
+      "coord": {
+         "lon": 2.3488,
+         "lat": 48.8534
+      },
+      "weather": [
+         {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10n"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 283.72,
+         "feels_like": 283.23,
+         "temp_min": 282.8,
+         "temp_max": 284.31,
+         "pressure": 1002,
+         "humidity": 92
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 9.26,
+         "deg": 210
+      },
+      "rain": {
+         "1h": 0.87
+      },
+      "clouds": {
+         "all": 100
+      },
+      "dt": 1704155960,
+      "sys": {
+         "type": 2,
+         "id": 2041230,
+         "country": "FR",
+         "sunrise": 1704181439,
+         "sunset": 1704211461
+      },
+      "timezone": 3600,
+      "id": 2988507,
+      "name": "Paris",
+      "cod": 200
+   },
+   "london": {
+      "coord": {
+         "lon": -0.1257,
+         "lat": 51.5085
+      },
+      "weather": [
+         {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 284.97,
+         "feels_like": 284.56,
+         "temp_min": 283.87,
+         "temp_max": 286.03,
+         "pressure": 988,
+         "humidity": 90
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 5.66,
+         "deg": 230
+      },
+      "rain": {
+         "1h": 0.1
+      },
+      "clouds": {
+         "all": 100
+      },
+      "dt": 1704155886,
+      "sys": {
+         "type": 2,
+         "id": 268730,
+         "country": "GB",
+         "sunrise": 1704182765,
+         "sunset": 1704211323
+      },
+      "timezone": 0,
+      "id": 2643743,
+      "name": "London",
+      "cod": 200
+   },
+   "washington": {
+      "coord": {
+         "lon": -120.5015,
+         "lat": 47.5001
+      },
+      "weather": [
+         {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 274.66,
+         "feels_like": 274.66,
+         "temp_min": 273.67,
+         "temp_max": 276.13,
+         "pressure": 1027,
+         "humidity": 81,
+         "sea_level": 1027,
+         "grnd_level": 966
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 0.48,
+         "deg": 265,
+         "gust": 0.4
+      },
+      "clouds": {
+         "all": 100
+      },
+      "dt": 1704156344,
+      "sys": {
+         "type": 2,
+         "id": 2019804,
+         "country": "US",
+         "sunrise": 1704124187,
+         "sunset": 1704154845
+      },
+      "timezone": -28800,
+      "id": 5815135,
+      "name": "Washington",
+      "cod": 200
+   },
+   "ouagadougou": {
+      "coord": {
+         "lon": -1.5383,
+         "lat": 12.3642
+      },
+      "weather": [
+         {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02n"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 295.42,
+         "feels_like": 294.12,
+         "temp_min": 295.42,
+         "temp_max": 295.42,
+         "pressure": 1014,
+         "humidity": 16,
+         "sea_level": 1014,
+         "grnd_level": 980
+      },
+      "visibility": 10000,
+      "wind": {
+         "speed": 3.87,
+         "deg": 47,
+         "gust": 5.4
+      },
+      "clouds": {
+         "all": 11
+      },
+      "dt": 1704156401,
+      "sys": {
+         "country": "BF",
+         "sunrise": 1704176840,
+         "sunset": 1704217926
+      },
+      "timezone": 0,
+      "id": 2357048,
+      "name": "Ouagadougou",
+      "cod": 200
+   },
+   "accra": {
+      "coord": {
+         "lon": -0.1969,
+         "lat": 5.556
+      },
+      "weather": [
+         {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+         }
+      ],
+      "base": "stations",
+      "main": {
+         "temp": 302.38,
+         "feels_like": 309.38,
+         "temp_min": 302.38,
+         "temp_max": 302.38,
+         "pressure": 1013,
+         "humidity": 84
+      },
+      "visibility": 8000,
+      "wind": {
+         "speed": 3.09,
+         "deg": 220
+      },
+      "clouds": {
+         "all": 6
+      },
+      "dt": 1704156149,
+      "sys": {
+         "type": 1,
+         "id": 1126,
+         "country": "GH",
+         "sunrise": 1704175810,
+         "sunset": 1704218311
+      },
+      "timezone": 0,
+      "id": 2306104,
+      "name": "Accra",
+      "cod": 200
+   }
+}
